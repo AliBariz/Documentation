@@ -24,7 +24,8 @@ This README file contains the information about the Technical planning and syste
 
 ## System Architecture Design
 The Picture below represents the visual representation of the General E-Commerce system architecture.
-![image alt](https://github.com/AliBariz/Documentation/blob/c469dfd69398fe018d6a12425ee6fc2c0f088bf6/SystemArchitecture_Day2/Hackathon-3%20Day-2(Copy%20with%20watermark).png)
+![image alt](https://github.com/AliBariz/Documentation/blob/0804ee4ed4b4f4db09c9e85ef73794200054909b/SystemArchitecture_Day2/Day-2%20Technical%20Planning%20Workflow.excalidraw.png)
+![image alt](https://github.com/AliBariz/Documentation/blob/0804ee4ed4b4f4db09c9e85ef73794200054909b/SystemArchitecture_Day2/Day-2%20Technical%20Planning%20Sanity%20Schema.excalidraw.png)
 
 ## Purpose and Methods of API Endpoints
 API Endpoints, their purposes and methods are listed below:
